@@ -1,0 +1,131 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Navbar */
+.kotak {
+    width: 100px;
+    height: 34px;
+    background-color: #0D28A6;
+    ;
+}
+
+nav {
+    margin-top: 25px;
+    background-color: #F1F3FF;
+    margin-top: 0;
+}
+
+.button-primary {
+    background-color: #5CB85F;
+    border: none;
+    color: white;
+}
+
+.nav-link:hover {
+    font-weight: 700;
+}
+/* Navbar End*/
+
+/* Hero */
+.hero {
+    height: 500px;
+    width: 100%;
+    background-color:#F1F3FF;
+}
+
+.hero-title {
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+}
+
+.hero-parg {
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 16px;
+}
+
+.button-primary {
+    padding: 8px 12px;
+}
+
+.background-mobil {
+    width: 704px;
+    height: 243px;
+    background-color: #0D28A6;
+    border-top-left-radius: 50px;
+}
+/* Hero End */
+
+/* Our service */
+.our-service {
+    margin: 150px;
+}
+
+/* Our service End */
+
+/* Why Us */
+.why-us-title {
+    font-size: 24px;
+}
+
+.border {
+    width: 268px;
+    height: 196px;
+    margin-bottom: 100px;
+    padding: 15px;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+.why-us-text {
+    font-size: 14px;
+}
+/* Why Us End*/
+
+/* Testimoni */
+.testi-title {
+    font-size: 24px;
+}
+
+.testi-text {
+    font-size: 14px;
+}
+/* Testimoni End */
+
+/* Banner */
+.banner-custom {
+    width: 1168px;
+    height: 326px;
+    background-color: #0D28A6;
+    padding: 50px;
+}
+
+.banner-text {
+    font-size: 14px;
+}
+/* Banner */
+
+/* FAQ */
+.faq-title {
+    font-size: 24px;
+}
+
+.faq-p {
+    font-size: 14px;
+}
+/* FAQ End */
+
+/* Footer */
+.bawah {
+    margin-top: 200px;
+    margin-bottom: 100px;
+}
+
+.ft {
+    font-size: 14px;
+}
+/* Footer End */
